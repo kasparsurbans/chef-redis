@@ -1,6 +1,8 @@
 DEPRECATION NOTICE
 
-I am no longer working on this cookbook. If you find it useful fork it. Issues are closed.# DESCRIPTION:
+I am no longer working on this cookbook. If you find it useful fork it. Issues are closed.
+
+# DESCRIPTION:
 
 Installs and configures [Redis](http://redis.io/).
 
